@@ -23,6 +23,14 @@ body {
 	text-align: center;
 }
 
+.square {
+    width: 100px;
+    height: 100px;
+	position: relative;
+	border-radius: 10%;
+	border: 3px solid var(--lightest-color);
+	margin: 0 auto;
+}
 .circle-shape {
 	width: 120px;
 	height: 120px;
